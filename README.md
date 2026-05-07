@@ -12,26 +12,7 @@ An interactive React-based web application for exploring, searching, and visuali
 ✨ Animated and visually appealing interface
 🧩 Reusable React components
 🌍 Responsive design for multiple screen sizes
-📂 Project Structure
-src/
-┣ assets/
-┃ ┗ react.svg
-┣ components/
-┃ ┣ ClassifyPlanet.jsx
-┃ ┣ ExoplanetViewer.jsx
-┃ ┗ KnownPlanetSearch.jsx
-┣ services/
-┃ ┗ exoplanetApi.js
-┣ App.css
-┣ App.jsx
-┣ Dashboard.css
-┣ ExoplanetViewer.jsx
-┣ Homepage.jsx
-┣ Homepage2.css
-┣ Homepage2.jsx
-┣ index.css
-┣ main.jsx
-┗ Scene.jsx
+
 🛠️ Tech Stack
 ⚛️ React.js
 🎨 CSS3
@@ -69,3 +50,10 @@ Handles animated or 3D visual rendering for immersive user experience.
 🎙️ Voice-controlled search
 🌍 3D solar system simulation
 📱 Enhanced mobile responsiveness
+
+<img width="1871" height="829" alt="image" src="https://github.com/user-attachments/assets/8e1ff2bd-bec6-42b0-b379-cd5aa4e1c23b" />
+<img width="1508" height="776" alt="image" src="https://github.com/user-attachments/assets/c0701269-52c9-435b-a279-1246d6032c06" />
+<img width="1569" height="836" alt="image" src="https://github.com/user-attachments/assets/1e06619e-5f4b-4cbe-88b9-2aa23d36c534" />
+
+
+
