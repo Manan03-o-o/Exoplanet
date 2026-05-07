@@ -18,8 +18,7 @@ An interactive React-based web application for exploring, searching, and visuali
 🎨 CSS3
 📡 REST API Integration
 🚀 Vite
-🌌 Three.js / React Three Fiber (if used in Scene.jsx)
-📦 Installation
+🌌 Three.js / React Three Fiber 
 
 🌍 Usage
 Open the application in your browser.
